@@ -6,7 +6,7 @@ I will make this good.
 
 //TODO 
 
--make it live
+-make it live  
 -make it responsive
 
 
