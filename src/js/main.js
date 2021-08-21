@@ -31,10 +31,10 @@ element3[0].onclick = function () {
     if (counter == 2) {
         let text1 = document.getElementsByClassName("text-1");
         let text3 = document.getElementsByClassName("text-3");
-        let text2 = document.getElementsByClassName("text-2");
+
         text1[0].classList.remove("nothing");
         text3[0].classList.add("nothing");
-    
+
 
     }
     if (counter == 3) {
@@ -43,8 +43,7 @@ element3[0].onclick = function () {
 
         text2[0].classList.remove("nothing");
         text1[0].classList.add("nothing");
-    
-        //console.log(textArea);
+
 
     }
     if (counter == 4) {
@@ -53,7 +52,7 @@ element3[0].onclick = function () {
 
         text3[0].classList.remove("nothing");
         text2[0].classList.add("nothing");
-    
+
 
 
     }
